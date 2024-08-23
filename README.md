@@ -1,9 +1,8 @@
 # Video Game Sales Prediction
 
-![heart attack](https://github.com/yordanossimegnew/End_to_End_Heart_Attack_Risk_Prediction/blob/main/heart%20attack.jpg)
+![video_Games](https://github.com/yordanossimegnew/Video_Game_Sales_Prediction/blob/main/video%20game%20sales.jpg)
 
-![web app gif](https://github.com/yordanossimegnew/Heart_Attack_Risk_Prediction/blob/main/real%20time%20app.gif)
-
+![web app gif](https://github.com/yordanossimegnew/Video_Game_Sales_Prediction/blob/main/post_man.gif)
 
 ## Overview
 
